@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Berti",
+        "last_name": "Klaas",
+        "email": "bklaas0@google.nl",
+        "admin": false
+    },
+    {
+        "id": 2,
+        "first_name": "Iggy",
+        "last_name": "Villaron",
+        "email": "ivillaron1@devhub.com",
+        "admin": true
+    },
+    {
+        "id": 3,
+        "first_name": "Caitrin",
+        "last_name": "McEniry",
+        "email": "cmceniry2@examiner.com",
+        "admin": false
+    },
+    {
+        "id": 4,
+        "first_name": "Gareth",
+        "last_name": "Traves",
+        "email": "gtraves3@ow.ly",
+        "admin": true
+    },
+    {
+        "id": 5,
+        "first_name": "Annie",
+        "last_name": "Zuenelli",
+        "email": "azuenelli4@simplemachines.org",
+        "admin": true
+    },
+    {
+        "id": 6,
+        "first_name": "Osborn",
+        "last_name": "Artinstall",
+        "email": "oartinstall5@ycombinator.com",
+        "admin": true
+    },
+    {
+        "id": 7,
+        "first_name": "Kelila",
+        "last_name": "Skrines",
+        "email": "kskrines6@taobao.com",
+        "admin": true
+    },
+    {
+        "id": 8,
+        "first_name": "Ilaire",
+        "last_name": "Gierok",
+        "email": "igierok7@icio.us",
+        "admin": true
+    },
+    {
+        "id": 9,
+        "first_name": "Ruthie",
+        "last_name": "Haywood",
+        "email": "rhaywood8@sphinn.com",
+        "admin": true
+    },
+    {
+        "id": 10,
+        "first_name": "Ashbey",
+        "last_name": "Wingfield",
+        "email": "awingfield9@yahoo.co.jp",
+        "admin": true
+    }
+]
